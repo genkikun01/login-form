@@ -1,1 +1,3 @@
-$aaa
+<?php
+$server = $_POST
+?>
